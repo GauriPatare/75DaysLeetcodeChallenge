@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
