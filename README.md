@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
