@@ -26,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0796-rotate-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
