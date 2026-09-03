@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@
 | [0162-find-peak-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
 | ------- |
