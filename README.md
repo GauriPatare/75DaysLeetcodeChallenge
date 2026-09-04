@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+| [0410-split-array-largest-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0035-search-insert-position](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,4 +116,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
