@@ -92,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
