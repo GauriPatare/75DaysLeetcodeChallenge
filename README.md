@@ -125,4 +125,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
