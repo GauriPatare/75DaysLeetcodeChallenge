@@ -1,4 +1,4 @@
-class Solution {
+uclass Solution {
 
     private double power(double x, long n) {
         if (n == 0) {
