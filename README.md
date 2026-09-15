@@ -37,6 +37,7 @@
 | [0031-next-permutation](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
