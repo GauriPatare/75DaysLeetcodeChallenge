@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -36,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -145,6 +147,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
