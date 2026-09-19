@@ -41,6 +41,7 @@
 | [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -153,6 +154,7 @@
 | [0206-reverse-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
