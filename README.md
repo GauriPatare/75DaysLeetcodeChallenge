@@ -40,6 +40,7 @@
 | [0075-sort-colors](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -110,6 +111,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -142,6 +144,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 ## Manacher
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
