@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0704-binary-search) |
+| [0817-linked-list-components](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0817-linked-list-components) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+| [0817-linked-list-components](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0817-linked-list-components) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -157,6 +159,7 @@
 | [0206-reverse-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GauriPatare/75DaysLeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
